@@ -1,9 +1,9 @@
 {
   "name": "cowdupe",
   "version": "1.0",
-  "description": "Dupe the cow.",
+  "description": "Dupes the cow.",
   "url": "https://github.com/MellDa1024/cowdupe",
-  "authors": [ "MellDa" ],
+  "authors": [ "TheDuperTrooper", "MellDa" ],
   "main_class": "com.mellda.CowdupePlugin",
   "min_api_version": "3.0",
   "required_plugins": []
