@@ -1,11 +1,10 @@
 {
-  "name": "ExamplePlugin",
+  "name": "cowdupe",
   "version": "1.0",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Dupe the cow.",
+  "url": "https://github.com/MellDa1024/cowdupe",
+  "authors": [ "MellDa" ],
+  "main_class": "com.mellda.CowdupePlugin",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
   "required_plugins": []
 }
